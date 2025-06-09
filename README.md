@@ -3,13 +3,13 @@
 <pre>
 👋 Hey there, I'm Deep!
 
-Welcome to my GitHub Profile! I'm a passionate tech enthusiast who loves creating, learning, and experimenting with tech. Whether it's working on cloud solutions, refining UI designs, or building web apps, I’m always up for a new challenge.
+Welcome to my GitHub Profile! I'm a passionate tech enthusiast<br>who loves creating, learning, and experimenting with tech. <br>Whether it's working on cloud solutions, refining UI designs, or<br>building web apps, I’m always up for a new challenge.
 
 🌱 A Little About Me:
 
 - 🎓 Bachelor's in Web & Mobile App Development  
-- 💻 Currently exploring Fullstack Development, UX/UI Design, and sharpening my JavaScript skills  
-- ✍️ I enjoy writing, tinkering with designs, and figuring out how things work behind the scenes
+- 💻 Currently exploring Fullstack Development,<br>UX/UI Design, and sharpening my JavaScript skills  
+- ✍️ I enjoy writing, tinkering with designs, and<br>figuring out how things work behind the scenes
 </pre>
 
 #📊 GitHub Stats<br><br>![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)<br><br>## 📫 Let’s Connect<br><br>- ✉️ [Email Me](mailto:ghotane.deep@gmail.com)<br>- 🌐 [LinkedIn](https://www.linkedin.com/in/ghotane-deep/)<br>- 🌐 [Portfolio](https://ghotane-deep.com)<br><br>---<br><br>> _“Stay curious, keep learning, and never stop building.”_<br>
@@ -28,7 +28,7 @@ Welcome to my GitHub Profile! I'm a passionate tech enthusiast who loves creatin
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deep-ghotane&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
