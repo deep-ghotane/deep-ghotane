@@ -1,5 +1,18 @@
 # 💫 About Me:
-# 👋 Hey there, I'm Deep!<br><br>Welcome to my GitHub Profile! I'm a passionate tech enthusiast who loves creating, learning, and experimenting with tech. Whether it's working on cloud solutions, refining UI designs, or building web apps, I’m always up for a new challenge.<br><br>## 🌱 A Little About Me<br><br>- 🎓 Bachelor's in Web & Mobile App Development  <br>- 💻 Currently exploring **Fullstack Development**, **UX/UI Design**, and sharpening my **JavaScript** skills  <br>- ✍️ I enjoy writing, tinkering with designs, and figuring out how things work behind the scenes<br><br>## 🚀 Skills & Tech I Work With<br><br>- **Languages:** JavaScript, HTML, CSS, Python  <br>- **Cloud:** AWS (EC2, S3, IAM)  <br>- **Tools & Frameworks:** Figma, VS Code, Git, GitHub  <br>- **Other Interests:** UX/UI Design, Mobile App Development, AI basics<br><br>## 📊 GitHub Stats<br><br>![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)<br><br>## 📫 Let’s Connect<br><br>- ✉️ [Email Me](mailto:ghotane.deep@gmail.com)<br>- 🌐 [LinkedIn](https://www.linkedin.com/in/ghotane-deep/)<br>- 🌐 [Portfolio](https://ghotane-deep.com)<br><br>---<br><br>> _“Stay curious, keep learning, and never stop building.”_<br>
+
+<pre>
+👋 Hey there, I'm Deep!
+
+Welcome to my GitHub Profile! I'm a passionate tech enthusiast who loves creating, learning, and experimenting with tech. Whether it's working on cloud solutions, refining UI designs, or building web apps, I’m always up for a new challenge.
+
+🌱 A Little About Me:
+
+- 🎓 Bachelor's in Web & Mobile App Development  
+- 💻 Currently exploring Fullstack Development, UX/UI Design, and sharpening my JavaScript skills  
+- ✍️ I enjoy writing, tinkering with designs, and figuring out how things work behind the scenes
+</pre>
+
+#📊 GitHub Stats<br><br>![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)<br><br>## 📫 Let’s Connect<br><br>- ✉️ [Email Me](mailto:ghotane.deep@gmail.com)<br>- 🌐 [LinkedIn](https://www.linkedin.com/in/ghotane-deep/)<br>- 🌐 [Portfolio](https://ghotane-deep.com)<br><br>---<br><br>> _“Stay curious, keep learning, and never stop building.”_<br>
 
 
 ## 🌐 Socials:
@@ -20,3 +33,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deep-ghotane&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
